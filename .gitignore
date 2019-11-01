@@ -1,0 +1,14 @@
+/VolumeController/*.iml
+/VolumeController/.gradle
+/VolumeController/local.properties
+/VolumeController/.idea/caches
+/VolumeController/.idea/libraries
+/VolumeController/.idea/modules.xml
+/VolumeController/.idea/workspace.xml
+/VolumeController/.idea/navEditor.xml
+/VolumeController/.idea/assetWizardSettings.xml
+/VolumeController/.DS_Store
+/VolumeController/build
+/VolumeController/captures
+/VolumeController/.externalNativeBuild
+/VolumeController/.cxx
